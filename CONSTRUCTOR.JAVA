@@ -40,3 +40,19 @@ System.out.println("perametarized"+col.sal);
 System.out.println("perametarized"+col.sec);
 }
 }
+
+
+//CONSTRUCTOR CALLING
+
+import java.util.*;
+class co
+{
+  co()
+  {
+    System.out.println("this is the constructor");
+  }
+  public static void main(String []args)
+  {
+  co obj=new co();
+  }
+}
