@@ -1,3 +1,6 @@
+
+// binary search
+
 import java.util.*;
 class binary
 {
